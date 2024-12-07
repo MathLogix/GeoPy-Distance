@@ -11,6 +11,3 @@ Geopy is a Python library that simplifies the process of performing geocoding, r
   - Mapping Applications: Used in applications requiring location data.
   - Data Analysis: Helpful in analyzing spatial data and trends.
   - Travel and Logistics: Assists in route planning and location-based services.
-
-**Summary**
-Geopy is a versatile library for geolocation tasks in Python, making it easier for developers to integrate geographic data into their applications.
